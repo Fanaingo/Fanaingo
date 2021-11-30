@@ -1,6 +1,7 @@
 <div align="center">
 
 ## Hey, I' m Fanaingo 👋🇲🇬 
+</div>
 
 <!--
 **Fanaingo/Fanaingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +20,8 @@ Here are some ideas to get you started:
 
 <img src="assets/pacman.svg" width="70">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23525252&size=12&center=true&lines=Computer+Science+Student;Web+developper;Always+learning+something+new)](https://git.io/typing-svg)
 
+<div align="center">
+
 ![Profil count](https://komarev.com/ghpvc/?username=Fanaingo&color=F0DB4F) [![Github Fanaingo](https://img.shields.io/github/followers/Fanaingo?label=follow&style=social)](https://github.com/Fanaingo)
 </div>
 
@@ -29,6 +32,7 @@ Here are some ideas to get you started:
 - 💪 Very motivated to keep learning and improving my skills especially on the field of web devopment
 - 🌱 I’m currently learning Javascript and his various frameworks
 - 👯 I’m looking to collaborate on JavaScript projects
+<span><img src="assets/img.jpeg" align="right" width="100"></span>
 - 💬 Ask me about Html5, Css3, Responsive design, C
 
 ### LANGUAGES AND TOOLS:
@@ -68,8 +72,9 @@ Here are some ideas to get you started:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Fanaingo&theme=dark&ring=F0DB4F&fire=F0DB4F&currStreakLabel=ffff33&sideLabels=F0DB4F)  
 </div>
 
-**DM me to:**
 <div align="center">
+
+**DM me to:**
 	<a href="https://instagram.com/malalrak_"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/instagram.svg" width="30" height="30"></a> &nbsp; 
 	<a href="https://facebook.com/naingo.rak"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/facebook.svg" width="30" height="30"></a> &nbsp; 
 	<a href="https://www.linkedin.com/in/fanaingo-rakotomalala-77626220"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/linkedin.svg" width="30" height="30"></a> &nbsp;
