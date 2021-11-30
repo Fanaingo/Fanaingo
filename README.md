@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 ![Profil count](https://komarev.com/ghpvc/?username=Fanaingo&color=F0DB4F) [![Github Fanaingo](https://img.shields.io/github/followers/Fanaingo?label=follow&style=social)](https://github.com/Fanaingo)
 
 <img src="./assets/short.gif" width="100%" height="400">
+
+### ABOUT ME:	
+- 🔭 I’m currently studying computer science (4th semester)
+- 💪 Very motivated to keep learning and improving my skills especially on the field of web devopment
+- 🌱 I’m currently learning Javascript and his various frameworks
+- 👯 I’m looking to collaborate on JavaScript projects
+- 💬 Ask me about Html5, Css3, Responsive design, C
