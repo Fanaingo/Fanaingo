@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Hey, I' m Fanaingo 👋🇲🇬 
 
 <!--
@@ -18,6 +20,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23525252&size=12&center=true&lines=Computer+Science+Student;Web+developper;Always+learning+something+new)](https://git.io/typing-svg)
 
 ![Profil count](https://komarev.com/ghpvc/?username=Fanaingo&color=F0DB4F) [![Github Fanaingo](https://img.shields.io/github/followers/Fanaingo?label=follow&style=social)](https://github.com/Fanaingo)
+</div>
 
 <img src="assets/banner.gif" width="100%" height="400">
 
@@ -71,6 +74,6 @@ Here are some ideas to get you started:
 	<a href="https://facebook.com/naingo.rak"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/facebook.svg" width="30" height="30"></a> &nbsp; 
 	<a href="https://www.linkedin.com/in/fanaingo-rakotomalala-77626220"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/linkedin.svg" width="30" height="30"></a> &nbsp;
 	<a href="mailto:fanaingorakotomalala@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/gmail.svg" width="30" height="30"></a>
-</div> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23525252&size=12&center=true&vCenter=true&multiline=true&lines=Glad+to+know+you'+ve+reached+my+github+profile.;See+you+!)](https://git.io/typing-svg)
+</div>
