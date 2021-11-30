@@ -27,3 +27,31 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript and his various frameworks
 - 👯 I’m looking to collaborate on JavaScript projects
 - 💬 Ask me about Html5, Css3, Responsive design, C
+
+### LANGUAGES AND TOOLS:
+<div align="center">
+	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-0D1117.svg?style=flat&logo=javascript&logoColor=F0DB4F"> 
+    <img src="https://img.shields.io/badge/jQuery-0D1117?style=flat&logo=jquery&logoColor=F0DB4F" /> 
+    <img src="https://img.shields.io/badge/Vue.js-0D1117?style=flat&logo=vue&logoColor=F0DB4F" />  
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-0D1117.svg?style=flat&logo=html5&logoColor=F0DB4F"> 
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3%20-0D1117.svg?style=flat&logo=css3&logoColor=F0DB4F">
+	<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0D1117.svg?style=flat&logo=bootstrap&logoColor=F0DB4F"/> 
+	<img src="https://img.shields.io/badge/Tailwind-0D1117.svg?style=flat&logo=tailwind-css&logoColor=F0DB4F"> 
+	<img alt="Markdown" src="https://img.shields.io/badge/Markdown-0D1117?style=flate&logo=markdown&logoColor=F0DB4F"> 
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-0D1117.svg?style=flat&logo=php&logoColor=F0DB4F"/> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-0D1117.svg?style=flat&logo=c&logoColor=F0DB4F"> 
+	<img alt="Git" src="https://img.shields.io/badge/Git%20-0D1117.svg?style=flat&logo=git&logoColor=F0DB4F"> 
+	<img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-0D1117.svg?style=flat&logo=github&logoColor=F0DB4F"> 
+	<img  alt="Gitlab"  src="https://img.shields.io/badge/GitLab-0D1117.svg?style=flat&logo=gitlab&logoColor=F0DB4F"/> 
+	<img  alt="Bitbucket"  src="https://img.shields.io/badge/Bitbucket-0D1117.svg?style=flat&logo=bitbucket&logoColor=F0DB4F"/>
+	<img src="https://img.shields.io/badge/Bash%20-0D1117.svg?style=flat&logo=gnu-bash&logoColor=F0DB4F">  
+	<img alt="Linux" src="https://img.shields.io/badge/Linux-0D1117?style=flat&logo=linux&logoColor=F0DB4F"> 
+	<img src="https://img.shields.io/badge/Sublime%20Text-0D1117.svg?style=flat&logo=sublime-text&logoColor=F0DB4F" />
+	<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=flat&logo=visual-studio-code&logoColor=F0DB4F">
+	<img src="https://img.shields.io/badge/Trello%20-0D1117.svg?style=flat&logo=trello&logoColor=F0DB4F">
+	<img src="https://img.shields.io/badge/Strapi%20-0D1117.svg?style=flat&logo=strapi&logoColor=F0DB4F">
+	<img  alt="Netlify"  src="https://img.shields.io/badge/Netlify-0D1117.svg?style=flat&logo=netlify&logoColor=#F0DB4F"/>
+	<img  alt="Stack Overflow"  src="https://img.shields.io/badge/-Stack overflow-0D1117?style=flat&logo=stack-overflow&logoColor=F0DB4F"/> 
+	<img  alt="Codepen"  src="https://img.shields.io/badge/Codepen-0D1117?style=flat&logo=codepen&logoColor=F0DB4F"/> 
+	<img  alt="Udemy"  src="https://img.shields.io/badge/Udemy-0D1117?style=flat&logo=Udemy&logoColor=F0DB4F"/>
+</div>
