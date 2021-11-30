@@ -55,3 +55,12 @@ Here are some ideas to get you started:
 	<img  alt="Codepen"  src="https://img.shields.io/badge/Codepen-0D1117?style=flat&logo=codepen&logoColor=F0DB4F"/> 
 	<img  alt="Udemy"  src="https://img.shields.io/badge/Udemy-0D1117?style=flat&logo=Udemy&logoColor=F0DB4F"/>
 </div>
+
+### GITHUB STATS:
+<div align="center">
+    <a href="#"><img alt="Fanaingo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fanaingo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+ </div>
+ <div align="center">
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Fanaingo&theme=dark&ring=F0DB4F&fire=F0DB4F&currStreakLabel=ffff33&sideLabels=F0DB4F)  
+</div>
