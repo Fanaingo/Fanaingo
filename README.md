@@ -64,3 +64,12 @@ Here are some ideas to get you started:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Fanaingo&theme=dark&ring=F0DB4F&fire=F0DB4F&currStreakLabel=ffff33&sideLabels=F0DB4F)  
 </div>
+
+**DM me to:**
+<div align="center">
+	<a href="https://instagram.com/malalrak_"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/instagram.svg" width="30" height="30"></a> &nbsp; 
+	<a href="https://facebook.com/naingo.rak"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/facebook.svg" width="30" height="30"></a> &nbsp; 
+	<a href="https://www.linkedin.com/in/fanaingo-rakotomalala-77626220"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/linkedin.svg" width="30" height="30"></a> &nbsp;
+	<a href="mailto:fanaingorakotomalala@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/gmail.svg" width="30" height="30"></a>
+</div> 
+</div>
