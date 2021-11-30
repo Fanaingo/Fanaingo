@@ -72,4 +72,5 @@ Here are some ideas to get you started:
 	<a href="https://www.linkedin.com/in/fanaingo-rakotomalala-77626220"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/linkedin.svg" width="30" height="30"></a> &nbsp;
 	<a href="mailto:fanaingorakotomalala@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/gmail.svg" width="30" height="30"></a>
 </div> 
-</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23525252&size=12&center=true&vCenter=true&multiline=true&lines=Glad+to+know+you'+ve+reached+my+github+profile.;See+you+!)](https://git.io/typing-svg)
