@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="assets/pacman.svg" width="70">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23525252&size=12&center=true&lines=Computer+Science+Student;Web+developper;Always+learning+something+new)](https://git.io/typing-svg)
+<img src="assets/pacman.svg" width="90">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23525252&size=12&center=true&lines=Computer+Science+Student;Web+developper;Always+learning+something+new)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 ### LANGUAGES AND TOOLS:
 <div align="center">
+	<img src="assets/mignon.jpeg" width="2OO"> <br>
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-0D1117.svg?style=flat&logo=javascript&logoColor=F0DB4F"> 
     <img src="https://img.shields.io/badge/jQuery-0D1117?style=flat&logo=jquery&logoColor=F0DB4F" /> 
     <img src="https://img.shields.io/badge/Vue.js-0D1117?style=flat&logo=vue&logoColor=F0DB4F" />  
@@ -74,7 +75,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-**DM me to:**
+**DM me to:**  
 	<a href="https://instagram.com/malalrak_"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/instagram.svg" width="30" height="30"></a> &nbsp; 
 	<a href="https://facebook.com/naingo.rak"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/facebook.svg" width="30" height="30"></a> &nbsp; 
 	<a href="https://www.linkedin.com/in/fanaingo-rakotomalala-77626220"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/linkedin.svg" width="30" height="30"></a> &nbsp;
