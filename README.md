@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey, I' m Fanaingo 👋🇲🇬 
 
 <!--
 **Fanaingo/Fanaingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23525252&size=12&center=true&lines=Computer+Science+Student;Web+developper;Always+learning+something+new)](https://git.io/typing-svg)
+
+![Profil count](https://komarev.com/ghpvc/?username=Fanaingo&color=F0DB4F) [![Github Fanaingo](https://img.shields.io/github/followers/Fanaingo?label=follow&style=social)](https://github.com/Fanaingo)
