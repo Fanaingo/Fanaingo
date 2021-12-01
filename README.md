@@ -11,7 +11,7 @@
 
 <img src="assets/banner.gif" width="100%" height="400">
 
-### ABOUT ME:	
+<div align="center"><img src="assets/about.svg" width="200px"></div>
 - 🔭 I’m currently studying computer science (4th semester)
 - 💪 Very motivated to keep learning and improving my skills especially on the field of web devopment
 <span><img src="assets/img.jpeg" align="right" width="100"></span>
@@ -21,7 +21,7 @@
 
 ---
 
-### LANGUAGES AND TOOLS:
+<div align="center"><img src="assets/langs.svg" width="200px"></div>
 <div align="center">
 	<img src="assets/mignon.png" width="100"> <br>
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-0D1117.svg?style=flat&logo=javascript&logoColor=F7DF1E"> 
@@ -52,7 +52,7 @@
 
 ---
 
-### GITHUB STATS:
+<div align="center"><img src="assets/anal.svg" width="200px"></div>
 <div align="center">
     <a href="#"><img alt="Fanaingo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fanaingo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F7DF1E&icon_color=F7DF1E" height="200"/></a>
  </div>
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-**DM me to:**
+***DM me to:***
 </div>
 <div align="center">
 	<a href="https://instagram.com/malalrak_"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/instagram.svg" width="30" height="30"></a> &nbsp; 
