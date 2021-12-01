@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profil count](https://komarev.com/ghpvc/?username=Fanaingo&color=F0DB4F) [![Github Fanaingo](https://img.shields.io/github/followers/Fanaingo?label=follow&style=social)](https://github.com/Fanaingo)
+![Profil count](https://komarev.com/ghpvc/?username=Fanaingo&color=F7DF1E) [![Github Fanaingo](https://img.shields.io/github/followers/Fanaingo?label=follow&style=social)](https://github.com/Fanaingo)
 </div>
 
 <img src="assets/banner.gif" width="100%" height="400">
@@ -24,7 +24,7 @@
 	<img src="assets/mignon.jpeg" width="100"> <br>
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-0D1117.svg?style=flat&logo=javascript&logoColor=F0DB4F"> 
     <img src="https://img.shields.io/badge/jQuery-0D1117?style=flat&logo=jquery&logoColor=F0DB4F" /> 
-    <img src="https://img.shields.io/badge/Vue.js-0D1117?style=flat&logo=vuejs&logoColor=F0DB4F" />  
+    <img src="https://img.shields.io/badge/Vue.js-0D1117?style=flat&logo=vue.js&logoColor=F0DB4F" />  
     <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-0D1117.svg?style=flat&logo=html5&logoColor=F0DB4F"> 
     <img alt="CSS" src="https://img.shields.io/badge/CSS3%20-0D1117.svg?style=flat&logo=css3&logoColor=F0DB4F">
 	<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0D1117.svg?style=flat&logo=bootstrap&logoColor=F0DB4F"/> 
@@ -42,7 +42,7 @@
 	<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=flat&logo=visual-studio-code&logoColor=F0DB4F">
 	<img src="https://img.shields.io/badge/Trello%20-0D1117.svg?style=flat&logo=trello&logoColor=F0DB4F">
 	<img src="https://img.shields.io/badge/Strapi%20-0D1117.svg?style=flat&logo=strapi&logoColor=F0DB4F">
-	<img  alt="Netlify"  src="https://img.shields.io/badge/Netlify-0D1117.svg?style=flat&logo=netlify&logoColor=#F0DB4F"/>
+	<img  alt="Netlify"  src="https://img.shields.io/badge/Netlify-0D1117.svg?style=flat&logo=netlify&logoColor=F0DB4F"/>
 	<img  alt="Stack Overflow"  src="https://img.shields.io/badge/-Stack overflow-0D1117?style=flat&logo=stack-overflow&logoColor=F0DB4F"/> 
 	<img  alt="Codepen"  src="https://img.shields.io/badge/Codepen-0D1117?style=flat&logo=codepen&logoColor=F0DB4F"/> 
 	<img  alt="Udemy"  src="https://img.shields.io/badge/Udemy-0D1117?style=flat&logo=Udemy&logoColor=F0DB4F"/>
