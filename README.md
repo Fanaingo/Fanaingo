@@ -1,24 +1,8 @@
 <div align="center">
-
-## Hey, I' m Fanaingo 👋🇲🇬 
+	<h2>Hey, I'm Fanaingo 🇲🇬<img alt="Night Coding" src="assets/Hand Wave.gif" width='40'/></h2>
 </div>
 
-<!--
-**Fanaingo/Fanaingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="assets/pacman.svg" width="70">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23525252&size=12&center=true&lines=Computer+Science+Student;Web+developper;Always+learning+something+new)](https://git.io/typing-svg)
+<img src="./assets/pacman.svg" width="70">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23525252&size=12&center=true&lines=Computer+Science+Student;Web+developper;Always+learning+something+new)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -40,7 +24,7 @@ Here are some ideas to get you started:
 	<img src="assets/mignon.jpeg" width="100"> <br>
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-0D1117.svg?style=flat&logo=javascript&logoColor=F0DB4F"> 
     <img src="https://img.shields.io/badge/jQuery-0D1117?style=flat&logo=jquery&logoColor=F0DB4F" /> 
-    <img src="https://img.shields.io/badge/Vue.js-0D1117?style=flat&logo=vue&logoColor=F0DB4F" />  
+    <img src="https://img.shields.io/badge/Vue.js-0D1117?style=flat&logo=vuejs&logoColor=F0DB4F" />  
     <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-0D1117.svg?style=flat&logo=html5&logoColor=F0DB4F"> 
     <img alt="CSS" src="https://img.shields.io/badge/CSS3%20-0D1117.svg?style=flat&logo=css3&logoColor=F0DB4F">
 	<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0D1117.svg?style=flat&logo=bootstrap&logoColor=F0DB4F"/> 
@@ -74,7 +58,10 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-	<strong>DM me to:</strong>
+
+**DM me to:**
+</div>
+<div align="center">
 	<a href="https://instagram.com/malalrak_"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/instagram.svg" width="30" height="30"></a> &nbsp; 
 	<a href="https://facebook.com/naingo.rak"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/facebook.svg" width="30" height="30"></a> &nbsp; 
 	<a href="https://www.linkedin.com/in/fanaingo-rakotomalala-77626220"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/linkedin.svg" width="30" height="30"></a> &nbsp;
