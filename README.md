@@ -19,8 +19,8 @@
 
 ---
 
-<div align="center"><img src="assets/langs.svg" width="300px"><br><br></div>
-<div align="center">
+<div align="center"> 
+	<h3>LANGUAGES/PLATEFORMS and TOOLS:</h3>
 	<img src="assets/mignon.png" width="100"> <br>
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-0D1117.svg?style=flat&logo=javascript&logoColor=F7DF1E"> 
     <img src="https://img.shields.io/badge/jQuery-0D1117?style=flat&logo=jquery&logoColor=F7DF1E" /> 
@@ -51,8 +51,8 @@
 
 ---
 
-<div align="center"><img src="assets/anal.svg" width="300px"><br><br></div>
 <div align="center">
+	<h3>GITHUB STATS:</h3>
     <a href="#"><img alt="Fanaingo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fanaingo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F7DF1E&icon_color=F7DF1E" height="200"/></a>
  </div>
  <div align="center">
@@ -65,7 +65,7 @@
 ***How to reach me:***
 </div>
 <div align="center">
-	<a href="https://instagram.com/malalrak_"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/instagram.svg" width="30" height="30"></a> &nbsp; 
+	<a href="https://instagram.com/malalarak_"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/instagram.svg" width="30" height="30"></a> &nbsp; 
 	<a href="https://facebook.com/naingo.rak"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/facebook.svg" width="30" height="30"></a> &nbsp; 
 	<a href="https://www.linkedin.com/in/fanaingo-rakotomalala-77626220"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/linkedin.svg" width="30" height="30"></a> &nbsp;
 	<a href="mailto:fanaingorakotomalala@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/gmail.svg" width="30" height="30"></a>
